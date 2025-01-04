@@ -1,6 +1,6 @@
 **Objective:**
-
 Analyzed startup data to uncover factors influencing success and accurately predict the top 500 startup rankings.
+
 **Key Contributions:**
 
 Conducted comprehensive data cleaning and preprocessing, addressing missing values and engineering key features such as startup age and funding age.
