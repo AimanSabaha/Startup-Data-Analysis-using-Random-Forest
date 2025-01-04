@@ -1,0 +1,8 @@
+name,state_code,zip_code,city,founded_at,closed_at,funding_rounds,age_first_funding_year,age_last_funding_year,funding_total_usd,milestones,age_first_milestone_year,age_last_milestone_year,relationships,category_code,has_VC,has_angel,avg_participants,status
+PANTA Systems,CA,10001,Santa Clara,01-01-2002,02-04-2011,1,3,3,9499998,0,0,0,0,software,has_VC,0,2.0,1
+Aveksa,MA,2451,Waltham,01-01-2004,,3,2,5,28000000,2,1,2,7,software,0,0,2.666666667,0
+Resonant Vibes,KY,40204,Louisville,01-01-2004,27-04-2012,1,5,5,350000,0,0,0,0,web,1,0,1.0,1
+TriCipher,CA,95032,Los Gatos,01-01-2000,,4,5,10,40100000,1,7,7,9,enterprise,1,0,4.75,0
+Invicta Networks,VA,22182,Vienna,01-01-1999,28-03-2010,1,7,7,200000,0,0,0,0,public_relations,1,0,1.0,1
+Matisse Networks	,CA,94043,Mountain View,01-01-2002,15-02-2009,1,5,5,7500000,1,5,5,3,network_hosting,0,0,3.0,1
+Accenture,NY,10001,New York,2003-06-11,,1,1,1,0,0,1,1,0,automobile,0,0,0.0,0
